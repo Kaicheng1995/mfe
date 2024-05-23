@@ -1,3 +1,3 @@
-import('./boostraps');
+import('./bootstrap');
 
 console.log('hi there');
